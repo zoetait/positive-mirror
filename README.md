@@ -1,5 +1,4 @@
 # positive-mirror
-smart mirror
-you are beautiful
-dont change
-thank you for being you
+
+displays positive quotes for magicmirror;
+can be used to motivate or change mood
